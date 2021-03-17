@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Iamaugustin3
-- 👀 I’m interested in Data Analysis, Coding
+- 👋 Hi, I’m Augustine Jose
+- 👀 I’m interested in Data Analysis, Coding and developing
 - 🌱 I’m currently learning python, Kubernetes, airflow
 - 💞️ I’m looking to collaborate on someone who brings value to both of us
 - 📫 How to reach me : Check my portfolio ;)
